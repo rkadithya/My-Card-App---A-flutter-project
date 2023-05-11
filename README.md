@@ -1,7 +1,7 @@
 # MY Card app
 
 
-A new Flutter project.
+
 ![Mycard_App](https://github.com/rkadithya/My-Card-App---A-flutter-project/assets/57483145/6b75bce6-ca2c-4e38-b64a-54fae7539d58)
 
 ## Getting Started
